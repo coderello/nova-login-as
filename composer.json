@@ -1,0 +1,15 @@
+{
+    "name": "coderello/nova-login-as",
+    "description": "An easy way to login as any user from Laravel Nova.",
+    "keywords": ["laravel", "nova", "login", "as"],
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Coderello\\LoginAs\\": "src/"
+        }
+    }
+}
