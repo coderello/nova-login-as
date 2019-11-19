@@ -1,4 +1,4 @@
-<p align="center"><img alt="Nova Login As" src="https://coderello.com/images/packages/laravel-login-as.png" width="500"></p>
+<p align="center"><img alt="Nova Login As" src="https://coderello.com/images/packages/nova-login-as.png" width="500"></p>
 
 <p align="center"><b>Nova Login As</b> provides an easy way to login as any user from Laravel Nova.</p>
 
